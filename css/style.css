@@ -1,0 +1,17 @@
+.lowerGrid{
+  background-color: rgb(235,235,235) ! important;
+}
+.segment{
+
+}
+.header{
+   color: rgb(155,12,35);
+}
+.tableHeader{
+   background-color: rgb(155,12,35) ! important;
+   color: green;
+}
+.table{
+  background-color: rgb(255,255,255) ! important;
+  color: black;
+}
